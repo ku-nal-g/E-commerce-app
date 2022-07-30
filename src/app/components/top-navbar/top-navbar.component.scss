@@ -1,0 +1,19 @@
+nav.navbar{
+    background-color: rgb(0, 77, 115);
+}
+ a.login{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+a.login:hover{
+    text-decoration: underline;
+}
+a.signup:hover{
+    text-decoration: underline;
+}
+a.signup{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}

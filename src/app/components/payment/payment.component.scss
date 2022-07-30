@@ -1,0 +1,35 @@
+.parent-div{
+    display: flex;
+    padding: 2%;
+    background-color: aliceblue;
+    height: 100vh;
+}
+.row{
+    width: 100%;
+}
+.form-div{
+    padding: 10%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    transition: 0.3s;
+    background-color: white;
+}
+input[type=text]{
+    padding: 10px;
+}
+button.confirm{
+    background-color: rgb(10, 130, 201);
+    color: white;
+}
+button.cancel{
+    background-color: white;
+    color: rgb(10, 130, 201);
+    border: 2px solid rgb(10, 130, 201);
+}
+button.cancel:hover{
+    color: white;
+    background-color: rgb(10, 130, 201);
+    border: 2px solid rgb(10, 130, 201);
+}
+img {
+    filter: drop-shadow(16px 16px 10px black);
+}

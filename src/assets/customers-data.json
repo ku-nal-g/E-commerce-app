@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Kunal Gupta",
+        "email": "kunal@gmail.com",
+        "age": 19,
+        "number": 9876543210,
+        "role": "Admin",
+        "address": "Kant street new york"
+    },
+    {
+        "id": 2,
+        "name": "Gaurab Jha",
+        "email": "gaurab@gmail.com",
+        "age": 21,
+        "number": 765433290,
+        "role": "Guest",
+        "address": "park street new jersey"
+    },
+    {
+        "id": 3,
+        "name": "Priyanshu Raj",
+        "email": "priyanshu@gmail.com",
+        "age": 22,
+        "number": 7535353539,
+        "role": "Seller",
+        "address": "radison street austin"
+    },
+    {
+        "id": 4,
+        "name": "Mohit Dangi",
+        "email": "mohit@gmail.com",
+        "age": 23,
+        "number": 3842342844,
+        "role": "Admin",
+        "address": "gaur city sydney"
+    },
+    {
+        "id": 5,
+        "name": "Rakesh Jonas",
+        "email": "rakesh@gmail.com",
+        "age": 24,
+        "number": 534534535,
+        "role": "Seller",
+        "address": "zelensky street new zealand"
+    },
+    {
+        "id": 6,
+        "name": "Dane Johnson",
+        "email": "johnson@gmail.com",
+        "age": 25,
+        "number": 8965433383,
+        "role": "Seller",
+        "address": "jackson blue hong kong"
+    },
+    {
+        "id": 7,
+        "name": "Rohit Jain",
+        "email": "rohit@gmail.com",
+        "age": 26,
+        "number": 23423423425,
+        "role": "Admin",
+        "address": "electronic city singapore"
+    },
+    {
+        "id": 8,
+        "name": "Sonu Sood",
+        "email": "sonu@gmail.com",
+        "age": 28,
+        "number": 53455335335,
+        "role": "Guest",
+        "address": "kenneh rosen park noida"
+    },
+    {
+        "id": 9,
+        "name": "Robert Junior",
+        "email": "robert@gmail.com",
+        "age": 29,
+        "number": 765433290,
+        "role": "Admin",
+        "address": "loner street sri lanka"
+    },
+    {
+        "id": 10,
+        "name": "Monu Jain",
+        "email": "monu@gmail.com",
+        "age": 30,
+        "number": 7353355354,
+        "role": "Guest",
+        "address": "nodwin street new jersey"
+    },
+    {
+        "id": 11,
+        "name": "Sarbona Phukan",
+        "email": "sarbona@gmail.com",
+        "age": 31,
+        "number": 44837357335,
+        "role": "Admin",
+        "address": "roar city england"
+    },
+    {
+        "id": 12,
+        "name": "Rupal Jain",
+        "email": "rupal@gmail.com",
+        "age": 20,
+        "number": 98984646466,
+        "role": "Guest",
+        "address": "cross view new york"
+    },
+    {
+        "id": 13,
+        "name": "Ruchi Jain",
+        "email": "ruchi@gmail.com",
+        "age": 18,
+        "number": 7353355354,
+        "role": "Seller",
+        "address": "riverark sydney"
+    },
+    {
+        "id": 14,
+        "name": "Anushka Aditi",
+        "email": "anushka@gmail.com",
+        "age": 16,
+        "number": 435835738535,
+        "role": "Seller",
+        "address": "knight point china"
+    },
+    {
+        "id": 15,
+        "name": "Tapan Mondal",
+        "email": "tapan@gmail.com",
+        "age": 15,
+        "number": 9876543210,
+        "role": "Admin",
+        "address": "fallen river sydney"
+    }
+]

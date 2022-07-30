@@ -1,0 +1,25 @@
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+}
+.child-div p{
+    font-size: 30px;
+}
+.card{
+    border-radius: 10px;
+    background-color: snow;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 12px;
+  }
+a:hover{
+    color: red;
+}
+img{
+    width: 125px;
+    height: 120px;
+}
